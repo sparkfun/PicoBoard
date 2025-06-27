@@ -1,7 +1,7 @@
 Picoboard
 =========
 
-[![PicoBoard](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/3/1/1/10311-01b_i_ma.jpg) 
+[![PicoBoard](https://cdn.sparkfun.com/assets/parts/4/7/1/7/10311-01b.jpg) 
 *PicoBoard (WIG-10311)*](https://www.sparkfun.com/products/10311)
 
 The PicoBoard allows you to interface hardware sensors with the Scratch programming language.
